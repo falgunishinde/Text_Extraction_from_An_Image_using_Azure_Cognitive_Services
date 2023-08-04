@@ -1,0 +1,6 @@
+Optical Character 
+Recognition, or OCR, 
+converts images of 
+text into a digital 
+machine-readable 
+format. 
